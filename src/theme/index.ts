@@ -1,12 +1,11 @@
 const any = {
-	primary: '#F7931A',
+	primary: '#888278',
 }
 
 export const light = {
-	background: '#FFFFFF',
-	foreground: '#000000',
-	text: '#5D5D5B',
-	boxBg: '#EBF0F0',
+	background: '#F1ECE4',
+	foreground: '#2D2B28',
+	border: '#E3D9C9',
 	dangerText: '#932338',
 	dangerBg: '#fad7dd',
 	successText: '#00864e',
@@ -15,10 +14,9 @@ export const light = {
 }
 
 export const dark = {
-	background: '#000000',
-	foreground: '#FFFFFF',
-	text: '#adadad',
-	boxBg: '#171818',
+	background: '#2D2B28',
+	foreground: '#F1ECE4',
+	border: '#44413C',
 	dangerText: '#ef7f93',
 	dangerBg: '#2e0b11',
 	successText: '#5ce2aa',
